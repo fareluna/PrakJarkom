@@ -4,5 +4,5 @@
 * **NPM:** 2415061026
 * **Kelas:** Praktikum Jaringan Komputer A
 
-## Link Video Pengerjaan & Evaluasi
-[Link Video](https://youtu.be/1MZl0jQN1Ck)
+## Link Video Pengerjaan
+[Basic Network Configuration](https://youtu.be/1MZl0jQN1Ck)
