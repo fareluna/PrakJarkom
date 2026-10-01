@@ -1,0 +1,8 @@
+# Tugas Akhir Judul 1 
+
+* **Nama:** Fareluna Nazwa Hafeiz
+* **NPM:** 2415061026
+* **Kelas:** Praktikum Jaringan Komputer A
+
+## Link Video Pengerjaan & Evaluasi
+[Link Video](https://youtu.be/1MZl0jQN1Ck)
