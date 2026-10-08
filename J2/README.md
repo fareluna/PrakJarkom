@@ -5,4 +5,4 @@
 * **Kelas:** Praktikum Jaringan Komputer A
 
 ## Link Video Pengerjaan
-[Link Video](https://youtu.be/4JUHvjWqWxQ)
+[Link Video!](https://youtu.be/4JUHvjWqWxQ)
